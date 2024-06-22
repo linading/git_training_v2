@@ -1,3 +1,1 @@
 This is my second sample file
-
-Testing Revert Commit 2
